@@ -1,2 +1,1 @@
-# Images
-csun-logo image
+Nothing
